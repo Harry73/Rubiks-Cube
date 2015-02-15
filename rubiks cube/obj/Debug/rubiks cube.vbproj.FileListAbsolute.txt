@@ -1,0 +1,20 @@
+c:\users\ian\documents\visual studio 2012\Projects\rubiks cube\rubiks cube\bin\Debug\rubiks cube.exe.config
+c:\users\ian\documents\visual studio 2012\Projects\rubiks cube\rubiks cube\bin\Debug\rubiks cube.exe
+c:\users\ian\documents\visual studio 2012\Projects\rubiks cube\rubiks cube\bin\Debug\rubiks cube.xml
+c:\users\ian\documents\visual studio 2012\Projects\rubiks cube\rubiks cube\obj\Debug\rubiks_cube.rubiks_cube.resources
+c:\users\ian\documents\visual studio 2012\Projects\rubiks cube\rubiks cube\obj\Debug\rubiks_cube.Resources.resources
+c:\users\ian\documents\visual studio 2012\Projects\rubiks cube\rubiks cube\obj\Debug\rubiks cube.vbproj.GenerateResource.Cache
+c:\users\ian\documents\visual studio 2012\Projects\rubiks cube\rubiks cube\obj\Debug\rubiks cube.exe
+c:\users\ian\documents\visual studio 2012\Projects\rubiks cube\rubiks cube\obj\Debug\rubiks cube.xml
+c:\users\ian\documents\visual studio 2012\Projects\rubiks cube\rubiks cube\bin\Debug\rubiks cube.pdb
+c:\users\ian\documents\visual studio 2012\Projects\rubiks cube\rubiks cube\obj\Debug\rubiks cube.pdb
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\rubiks cube\rubiks cube\bin\Debug\rubiks cube.exe.config
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\rubiks cube\rubiks cube\obj\Debug\rubiks cube.exe
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\rubiks cube\rubiks cube\obj\Debug\rubiks cube.xml
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\rubiks cube\rubiks cube\obj\Debug\rubiks cube.pdb
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\rubiks cube\rubiks cube\bin\Debug\rubiks cube.exe
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\rubiks cube\rubiks cube\bin\Debug\rubiks cube.pdb
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\rubiks cube\rubiks cube\bin\Debug\rubiks cube.xml
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\rubiks cube\rubiks cube\obj\Debug\rubiks_cube.rubiks_cube.resources
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\rubiks cube\rubiks cube\obj\Debug\rubiks_cube.Resources.resources
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\rubiks cube\rubiks cube\obj\Debug\rubiks cube.vbproj.GenerateResource.Cache
