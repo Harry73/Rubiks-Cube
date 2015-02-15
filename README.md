@@ -1,1 +1,1 @@
-Rubiks-Cube Program
+Rubiks Cube Program
