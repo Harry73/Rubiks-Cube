@@ -1,1 +1,2 @@
-Rubiks Cube Program
+# Rubiks Cube Program
+Coded in Visual Basic
